@@ -1,6 +1,10 @@
 good morning
 <<<<<<< HEAD
+<<<<<<< HEAD
 good night
 =======
 good afternoon
 >>>>>>> feature
+=======
+good night
+>>>>>>> b054114 (Update p1.txt)
