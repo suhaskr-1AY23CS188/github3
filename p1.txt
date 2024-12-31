@@ -1,6 +1,9 @@
 good morning
 <<<<<<< HEAD
+<<<<<<< HEAD
 good night
 =======
 good afternoon
 >>>>>>> feature
+=======
+>>>>>>> parent of 502e666 (new)
