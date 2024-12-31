@@ -6,4 +6,9 @@ good night
 good afternoon
 >>>>>>> feature
 =======
+<<<<<<< HEAD
 >>>>>>> parent of 502e666 (new)
+=======
+good night
+>>>>>>> b054114 (Update p1.txt)
+>>>>>>> 7135c5add2bd3860af5c5537b62b8e8bbef0a7c5
