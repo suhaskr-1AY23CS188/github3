@@ -1,2 +1,6 @@
 good morning
+<<<<<<< HEAD
 good night
+=======
+good afternoon
+>>>>>>> feature
